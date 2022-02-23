@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @selfi123
+- 👀 I’m interested in hacking techs and love programming
+- 🌱 I’m currently learning Integrated MCA 
+- 💞️ I’m looking to collaborate on HACKING
+- 📫 Contact number: 9656315758
