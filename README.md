@@ -1,100 +1,69 @@
-<!-- ======= HEADER ======= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abel+Selfi;Cybersecurity+Enthusiast;Full-Stack+Developer;CTF+%7C+HTB+%7C+Automation" />
-</h1>
+<!-- ===================== --> <!-- GITHUB PROFILE README --> <!-- ===================== --> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abel+Selfi;Cybersecurity+Enthusiast;Web+%7C+Automation+%7C+CTFs;Hack+The+Box+%7C+TryHackMe" /> </h1> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750279-7b6f3f9d-1a67-4b3b-8c3a-1c6b8f7d6c7f.gif" width="600" /> </p>
+whoami
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750279-7b6f3f9d-1a67-4b3b-8c3a-1c6b8f7d6c7f.gif" width="600"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-```bash
-> whoami
+$ whoami
 Abel Selfi
 
-> role
-Cybersecurity | Web | Automation
+$ role
+Cybersecurity | Full Stack | Automation
 
-> interests
-Web Pentesting, Reverse Engineering, Cloud, AI Automation
+$ focus
+Web Pentesting, Reverse Engineering, Cloud Security
 
-> currently_learning
+$ currently_learning
 Advanced Exploitation, Red Teaming, System Design
-🛠️ Tech Stack
-💻 Programming
 
+Tech Stack
 
+Programming
+Python
+JavaScript
+Node.js
+C
 
+Web & Backend
+React
+Express
+Django
+Flask
 
-🌐 Web & Backend
+Cybersecurity
+Linux
+Burp Suite
+Metasploit
+Nmap
 
+Platforms
 
-
-
-🔐 Cybersecurity
-
-
-
-
-🧠 Platforms
 Hack The Box
-
 TryHackMe
-
 CTFtime
-
 LeetCode
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/> </p>
-🧩 Activity Graph
+GitHub Stats
 
-🕶️ Hacker Quote
-“The quieter you become, the more you are able to hear.”
+https://github-readme-stats.vercel.app/api?username=selfi123&show_icons=true&theme=radical&hide_border=true
 
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a> <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=120&section=footer"/> </p> ```
-Replace:
+https://github-readme-streak-stats.herokuapp.com/?user=selfi123&theme=radical&hide_border=true
 
-YOUR_USERNAME
+Activity Graph
 
-YOUR_LINK
+https://github-readme-activity-graph.vercel.app/graph?username=selfi123&bg_color=000000&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true
 
-YOUR_HANDLE
+Quote
 
-YOUR_EMAIL
+"The quieter you become, the more you are able to hear."
 
-2. How to Display It in a “Crazy Hacker Way”
-Step 1: Enable Profile README
-Create a new repository
+Connect
 
-Repository name = your GitHub username
+LinkedIn: https://linkedin.com/in/abel-jorlin-812981230
 
-Check “Add a README.md”
+Twitter: https://twitter.com/abeljorlin
 
-Paste the content above
+Email: undeadeyes12@gmail.com
 
-GitHub automatically renders it on your profile.
+If you are reading this,
+you already know too much.
 
-3. Advanced Hacker Enhancements (Highly Recommended)
-🔥 Terminal-Style Animations
-Typing text effect
-👉 https://readme-typing-svg.herokuapp.com
-
-Matrix rain GIF background
-👉 https://github.com/Ashutosh00710/github-readme-activity-graph
-
-🧠 Live Cyber Stats
-HTB badge:
-https://github.com/Andre601/hackthebox-badge
-
-LeetCode stats:
-https://github.com/KnlnKS/leetcode-stats
-
-🕷️ Hidden Easter Eggs
-<!-- 
-If you're reading this, you already know too much.
--->
+Footer Animation
+https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=120&section=footer
