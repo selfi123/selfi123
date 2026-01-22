@@ -2,15 +2,19 @@
 whoami
 
 $ whoami
+
 Abel Selfi
 
 $ role
+
 Cybersecurity | Full Stack | Automation
 
 $ focus
+
 Web Pentesting, Reverse Engineering, Cloud Security
 
 $ currently_learning
+
 Advanced Exploitation, Red Teaming, System Design
 
 Tech Stack
